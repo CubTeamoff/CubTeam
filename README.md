@@ -1,1 +1,1 @@
-# CubTeam
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CubTeam&theme=dark&locale=ru&date_format=j%2Fn%5B%2FY%5D&fire=EB5454&sideNums=EB7777&currStreakNum=EB5454&ring=EB724B&border=393939" alt="GitHub Streak" /></a>
